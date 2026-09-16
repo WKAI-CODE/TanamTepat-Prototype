@@ -1,0 +1,7 @@
+date,time_slot,truck_capacity_kg,cold_storage_capacity_kg,labour_capacity_kg,truck_available
+2026-10-05,Morning,2600,1500,2600,Yes
+2026-10-05,Afternoon,3000,1500,3000,Yes
+2026-10-06,Morning,4000,1500,4000,Yes
+2026-10-06,Afternoon,4000,1500,4000,Yes
+2026-10-07,Morning,4000,1500,4000,Yes
+2026-10-07,Afternoon,2800,1500,2800,Yes

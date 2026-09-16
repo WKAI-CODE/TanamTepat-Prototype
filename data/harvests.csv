@@ -1,0 +1,8 @@
+harvest_id,farm_id,crop_type,quantity_kg,ready_date,latest_collection_date,preferred_slot,storage_allowed,priority
+H001,F001,Tomato,800,2026-10-05,2026-10-05,Morning,No,High
+H002,F002,Cabbage,1900,2026-10-05,2026-10-06,Morning,Yes,Medium
+H003,F003,Chilli,1100,2026-10-06,2026-10-07,Afternoon,Yes,Medium
+H004,F004,Cucumber,1100,2026-10-05,2026-10-05,Afternoon,No,High
+H005,F001,Spinach,1600,2026-10-05,2026-10-06,Morning,Yes,Medium
+H006,F002,Lettuce,1000,2026-10-06,2026-10-07,Afternoon,Yes,Medium
+H007,F003,Eggplant,1400,2026-10-05,2026-10-06,Afternoon,Yes,Medium
