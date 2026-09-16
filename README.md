@@ -102,18 +102,12 @@ Start the application:
 streamlit run Main_Page.py
 ```
 
-The application will normally open at:
-
-```text
-http://localhost:8501
-```
-
 ---
 
 ## Online Prototype
 
-```text
-Deployment link: https://tanamtepat-prototype-terramind.streamlit.app/Emergency_Recovery
+Open the live prototype here:
+https://tanamtepat-prototype-terramind.streamlit.app/Emergency_Recovery
 ```
 
 ---
