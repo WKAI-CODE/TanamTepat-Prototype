@@ -107,8 +107,8 @@ streamlit run Main_Page.py
 ## Online Prototype
 
 Open the live prototype here:
-https://tanamtepat-prototype-terramind.streamlit.app/Emergency_Recovery
-```
+
+[Launch TanamTepat](https://tanamtepat-prototype-terramind.streamlit.app/)
 
 ---
 
