@@ -1,0 +1,9 @@
+harvest_id,farm_id,farm_name,crop_type,min_quantity_kg,max_quantity_kg,quantity_kg,ready_date,latest_collection_date,preferred_slot,storage_allowed,priority,confidence,confirmation_status
+H001,F001,Ladang Hijau Serdang,Tomato,700,800,800,2026-10-05,2026-10-05,Morning,No,High,High,Accepted
+H002,F002,Kebun Maju Kajang,Cabbage,1700,1900,1900,2026-10-05,2026-10-06,Morning,Yes,Medium,Medium,Accepted
+H003,F003,Tani Segar Klang,Chilli,900,1100,1100,2026-10-06,2026-10-07,Afternoon,Yes,Medium,Medium,Accepted
+H004,F004,Kebun Komuniti Cheras,Cucumber,900,1100,1100,2026-10-05,2026-10-05,Afternoon,No,High,High,Accepted
+H005,F001,Ladang Hijau Serdang,Spinach,1400,1600,1600,2026-10-05,2026-10-06,Morning,Yes,Medium,Medium,Accepted
+H006,F002,Kebun Maju Kajang,Lettuce,800,1000,1000,2026-10-06,2026-10-07,Afternoon,Yes,Medium,High,Accepted
+H007,F003,Tani Segar Klang,Eggplant,1200,1400,1400,2026-10-05,2026-10-06,Afternoon,Yes,Medium,Medium,Accepted
+H008,F004,Kebun Komuniti Cheras,Pak Choy,700,900,900,2026-10-07,2026-10-07,Morning,No,High,High,Pending
