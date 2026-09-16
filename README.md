@@ -113,7 +113,7 @@ http://localhost:8501
 ## Online Prototype
 
 ```text
-Deployment link: To be added
+Deployment link: https://tanamtepat-prototype-terramind.streamlit.app/Emergency_Recovery
 ```
 
 ---
